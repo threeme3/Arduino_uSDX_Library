@@ -1,4 +1,4 @@
-// uSDX.ino - https://github.com/threeme3/Arduino_uSDX_Library
+// uSDX.h - https://github.com/threeme3/Arduino_uSDX_Library
 //
 //  Copyright 2019, 2020, 2021, 2022, 2023, 2024   Guido PE1NNZ <pe1nnz@amsat.org>
 //
